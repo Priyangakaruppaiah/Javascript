@@ -1,3 +1,4 @@
+//Switch case
 const color='green'
 switch(color){
     case 'red':
